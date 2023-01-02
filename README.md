@@ -1,6 +1,6 @@
 # Records tracking
 
-##Certificates/accomplishment statements of continuous online education (data science)
+-----Certificates/accomplishment statements in PDF document-----
 
 ## Datacamp - Career track
 1. Data scientist with Python (97 hours/25 courses, https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)
