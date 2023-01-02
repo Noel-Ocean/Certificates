@@ -1,5 +1,5 @@
-# Records
+# Records Tracking
 
-##Certificates/Statement of Accomplishment
+##Certificates/accomplishment statements of continuous online education (data science)
 
-##Continuous online education for data science 
+##Constantly updating
