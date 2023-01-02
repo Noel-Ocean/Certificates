@@ -1,6 +1,6 @@
 # Records tracking
 
-Certificates + Accomplishment statements in PDF document
+Certificates + Accomplishment statements in PDF document (constantly updating)
 
 ## Datacamp - Career track
 1. Data scientist with Python (97 hours/25 courses, https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)
