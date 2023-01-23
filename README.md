@@ -5,7 +5,6 @@ Certificates + Accomplishment statements in PDF document (constantly updating)
 ## Datacamp - Career track
 1. Data scientist with Python (97 hours/25 courses, https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)
 2. Python Programmer (59 hours/ourses, ongoing, https://app.datacamp.com/learn/career-tracks/python-programmer)
-3. Data analyst with SQL (39 hours/11 courses, ongoing, https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql)
 
 ## Datacamp - Skills track
 ### Statistics:
@@ -16,6 +15,10 @@ https://app.datacamp.com/learn/skill-tracks/statistics-fundamentals-with-python
 https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python?version=1
 1. Introduction to Natural Language Processing in Python (4 hours)
 2. Feature engineering for NLP in Python (4 hours)
+3. Sentiment Analysis in Python (4 hours)
+4. Building Chatbots in Python (4 hours)
+5. Advanced NLP with spaCy (5 hours)
+6. Spoken Language Processing in Python (4 hours)
 
 ### Finance:
 https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1
