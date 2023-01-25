@@ -15,7 +15,7 @@ Certificates + Accomplishment statements in PDF document (constantly updating)
 |:----------------------------------------------------------|:-------|:----------------------------------------------------------------------------------|
 | Statistics fundamentals with Python (20hrs)               |finished| https://app.datacamp.com/learn/skill-tracks/statistics-fundamentals-with-python   |
 | Natural Language Processing in Python (25hrs/6 coursers)  |ongoing | https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python?version=1 |
-| Finance Fundamentals in Python (25hrs/)/6 coursers)       |ongoing | https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1
+| Finance Fundamentals in Python (25hrs/6 coursers)       |ongoing | https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1
 
 
 ## Coursera
