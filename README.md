@@ -3,8 +3,12 @@
 Certificates + Accomplishment statements in PDF document (constantly updating)
 
 ## Datacamp - Career track
-1. Data scientist with Python (97 hours/25 courses, https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)
-2. Python Programmer (59 hours/ourses, ongoing, https://app.datacamp.com/learn/career-tracks/python-programmer)
+
+| Name (no. of hours and courses)                    | Status | Details                                                                           |
+|:---------------------------------------------------|:-------|:----------------------------------------------------------------------------------|
+| Data scientist with Python (97 hours/25 courses)   |finished| https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|
+| Python Programmer (59 hours/ourses                 |ongoing | https://app.datacamp.com/learn/career-tracks/python-programmer)                   |
+
 
 ## Datacamp - Skills track
 ### Statistics:
