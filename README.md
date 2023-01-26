@@ -3,20 +3,26 @@
 Certificates + Accomplishment statements in PDF document (constantly updating)
 
 ## Datacamp - Career track
-| Track name                           | Status  | Details                                                                                               |
-|:-------------------------------------|:--------|:------------------------------------------------------------------------------------------------------|
-|Data scientist with Python            |Finished |97 hours/ 25 courses: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6|
-|Python Programmer                     |Ongoing  |59 hours/ 15 courses: https://app.datacamp.com/learn/career-tracks/python-programmer                   |
-|Data Analyst in SQL                   |Ongoing  |39 hours/ 11 courses: https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql                 |
+| Track name, details | Status |                                                                                                   
+|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Data scientist with Python, 97 hrs/ 25 courses
+https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6| Finished|   
+| Python Programmer, 59 hrs/ 15 courses
+https://app.datacamp.com/learn/career-tracks/python-programmer| Ongoing|
+| Data Analyst in SQL, 39 hrs/ 11 courses
+https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql| Ongoing|
 
 ## Datacamp - Skills track
 ### Statistics, NLP, Finance:
-| Track name (no. of hours/courses)                         | Status | Details                                                                           |
-|:----------------------------------------------------------|:-------|:----------------------------------------------------------------------------------|
-| Statistics fundamentals with Python (20hrs)               |finished| https://app.datacamp.com/learn/skill-tracks/statistics-fundamentals-with-python   |
-| Natural Language Processing in Python (25hrs/6 coursers)  |ongoing | https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python?version=1 |
-| Finance Fundamentals in Python (25hrs/6 coursers)       |ongoing | https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1
 
+| Track name, details | Status |                                                                                                   
+|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Statistics fundamentals with Python, 20hrs
+https://app.datacamp.com/learn/skill-tracks/statistics-fundamentals-with-python | Finished|
+| Natural Language Processing in Python, 25hrs
+https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python?version=1 | Ongoing|
+| Finance Fundamentals in Python, 25hrs
+https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1 | Ongoing|
 
 ## Coursera
 1. Bayesian statistics: From Concept to Data Analysis (https://www.coursera.org/learn/bayesian-statistics)
