@@ -3,11 +3,11 @@
 Certificates + Accomplishment statements in PDF document (constantly updating)
 
 ## Datacamp - Career track
-| Track name                   | Status  | Details                                                                                                  |
-|:-----------------------------|:--------|:---------------------------------------------------------------------------------------------------------|
-|Data scientist with Python    |Finished |97 hours/ 25 courses: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6   |
-|Python Programmer             |Ongoing  |59 hours/ 15 courses: https://app.datacamp.com/learn/career-tracks/python-programmer                      |
-|Data Analyst in SQL           |Ongoing  |39 hours/ 11 courses: https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql                    |
+| Track name                        | Status  | Details                                                                                               |
+|:----------------------------------|:--------|:------------------------------------------------------------------------------------------------------|
+|Data scientist with Python         |Finished |97 hours/ 25 courses: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6|
+|Python Programmer                  |Ongoing  |59 hours/ 15 courses: https://app.datacamp.com/learn/career-tracks/python-programmer                   |
+|Data Analyst in SQL                |Ongoing  |39 hours/ 11 courses: https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql                 |
 
 ## Datacamp - Skills track
 ### Statistics, NLP, Finance:
