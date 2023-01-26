@@ -10,28 +10,28 @@ https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=
 | Python Programmer, 59 hrs/ 15 courses
 https://app.datacamp.com/learn/career-tracks/python-programmer| Ongoing|
 
-## Datacamp - Skills track
-### Statistics, NLP, Finance:
+##  Datacamp - Skills track
+### NLP, Finance:
 
 | Track name, details | Status |                                                                                                   
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Statistics fundamentals with Python, 20hrs
-https://app.datacamp.com/learn/skill-tracks/statistics-fundamentals-with-python | Finished|
-| Time Series with Python, 20hrs
-https://app.datacamp.com/learn/skill-tracks/time-series-with-python | Ongoing|
 | Natural Language Processing in Python, 25hrs
 https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python?version=1 | Ongoing|
 | Finance Fundamentals in Python, 25hrs
 https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1 | Ongoing|
+| Time Series with Python, 20hrs
+https://app.datacamp.com/learn/skill-tracks/time-series-with-python | Ongoing|
 
-## Coursera & Edx
+## Datacamp, Coursera & Edx - Mathematics and Statistics
 | Course name, details | Status |                                                                                                   
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Bayesian statistics: From Concept to Data Analysis
+| Statistics fundamentals with Python, 20hrs
+https://app.datacamp.com/learn/skill-tracks/statistics-fundamentals-with-python | Finished|
+| Bayesian statistics: From Concept to Data Analysis, 12hrs
 https://www.coursera.org/learn/bayesian-statistics| Finished|   
-| Essential linear algebra for data science
+| Essential linear algebra for data science, 10hrs
 https://www.coursera.org/learn/essential-linear-algebra-for-data-science| Finished|  
-| MathTrackX: differential calculus
+| MathTrackX: differential calculus, 25hrs
 https://www.edx.org/course/mathtrackx-differential-calculus| Finished| 
-| Integral calculus and numerical analysis for data science
+| Integral calculus and numerical analysis for data science, 5hrs
 https://www.coursera.org/learn/integral-calculus-and-numerical-analysis-for-data-science| Finished| 
