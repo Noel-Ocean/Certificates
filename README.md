@@ -19,6 +19,7 @@ https://app.datacamp.com/learn/career-tracks/python-programmer| Ongoing|
 https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python?version=1 | Ongoing|
 | Finance Fundamentals in Python, 25hrs
 https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1 | Ongoing|
+| Applied Finance in Python, 16hrs
 https://app.datacamp.com/learn/skill-tracks/applied-finance-in-python | Ongoing|
 
 ## Datacamp, Coursera & Edx - Mathematics and Statistics
