@@ -9,14 +9,14 @@ Certificates + Accomplishment statements in PDF document (constantly updating)
 https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6| Finished|   
 | Python Programmer, 59 hrs/ 15 courses
 https://app.datacamp.com/learn/career-tracks/python-programmer| Ongoing|
+| Data Analyst in SQL, 39 hrs/ 11 courses
+https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=2| Ongoing|
 
 ##  Datacamp - Skills track
 ### NLP, Finance:
 
 | Track name, details | Status |                                                                                                   
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Natural Language Processing in Python, 25hrs
-https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python?version=1 | Ongoing|
 | Finance Fundamentals in Python, 25hrs
 https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1 | Ongoing|
 | Applied Finance in Python, 16hrs
