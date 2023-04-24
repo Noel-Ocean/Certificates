@@ -5,12 +5,12 @@ Certificates + Accomplishment statements in PDF document (constantly updating)
 ## Datacamp - Career track
 | Track name, details | Status |                                                                                                   
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Data scientist with Python, 97 hrs/ 25 courses
-https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6| Finished|   
+| Data Scientist Professional with Python, 116 hrs/ 31 courses
+https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-python?version=1| Finished|   
 | Python Programmer, 59 hrs/ 15 courses
 https://app.datacamp.com/learn/career-tracks/python-programmer| Ongoing|
-| Machine Learning Scientist with Python, 93 hrs/ 23 courses
-https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python?version=2| Ongoing|
+| Data Analyst in SQL, 39 hrs/ 11 courses
+https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=2| Ongoing|
 
 ##  Datacamp - Skills track
 ### Finance:
@@ -18,7 +18,8 @@ https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-pyt
 | Track name, details | Status |                                                                                                   
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Finance Fundamentals in Python, 25hrs
-https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1; Notes:  https://app.datacamp.com/workspace/w/4cbcc33b-1d14-4319-ad42-7282716a2501| Ongoing|
+https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1 
+Notes:  https://app.datacamp.com/workspace/w/4cbcc33b-1d14-4319-ad42-7282716a2501| Ongoing|
 | Applied Finance in Python, 16hrs
 https://app.datacamp.com/learn/skill-tracks/applied-finance-in-python | Ongoing|
 
