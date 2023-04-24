@@ -13,12 +13,12 @@ https://app.datacamp.com/learn/career-tracks/python-programmer| Ongoing|
 https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python?version=2| Ongoing|
 
 ##  Datacamp - Skills track
-### NLP, Finance:
+### Finance:
 
 | Track name, details | Status |                                                                                                   
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | Finance Fundamentals in Python, 25hrs
-https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1 | Ongoing|
+https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python?version=1; Notes:  https://app.datacamp.com/workspace/w/4cbcc33b-1d14-4319-ad42-7282716a2501| Ongoing|
 | Applied Finance in Python, 16hrs
 https://app.datacamp.com/learn/skill-tracks/applied-finance-in-python | Ongoing|
 
